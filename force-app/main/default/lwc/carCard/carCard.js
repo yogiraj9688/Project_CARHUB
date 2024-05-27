@@ -14,6 +14,7 @@ import SEATS_FIELD from '@salesforce/schema/Car__c.Number_of_Seats__c'
 import CONTROL_FIELD from '@salesforce/schema/Car__c.Control__c'
 
 //this function is used to extract field values
+//hello JS
 import { getFieldValue } from 'lightning/uiRecordApi';
 
 //lightning message service
